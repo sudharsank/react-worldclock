@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.6.0",
+    "libraryName": "react-world-clock",
+    "libraryId": "d06bbf26-6e75-486d-8b15-b82c3def697b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
